@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audiokurs zur Prüfungsvorbereitung</title>
+    <link>http://kurse.mingsmed.de/audiokurs</link>
+    <description>Der exklusive Audiopodcast zur 100-Tage-Vorbereitung zum Heilpraktiker von mingsmed!</description>
+    <language>de-de</language>
+    
+    <!-- Podcast-Cover-Bild -->
+    <itunes:image href="https://kurse.mingsmed.de/wp-content/uploads/2024/08/Audiokurs-zur-Heilpraktikerpruefung.png" />
+
+    <!-- Podcast-Eigentümer -->
+    <itunes:owner>
+      <itunes:email>kurse@mingsmed.de</itunes:email>
+    </itunes:owner>
+
+    <!-- Korrigierter Atom-Link -->
+    <atom:link href="https://mingsmed.github.io/podcast-feed/podcast_feed_corrected.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>1. Modul: Hals-Nase-Ohren</title>
+      <link>https://drive.google.com/file/d/1IQG8QRD3-1_bt55EiCOPNwEno-xU4vHO/view?usp=drive_link</link>
+      <description>Am Anfang die weniger wichtigen Fächer und zum Schluss die absoluten Prüfungshighlights. Den Startschuss machen damit die Sinnesorgane Auge + HNO und die Dermatologie, schöne Themen aber nur ein mäßiger Anteil an Prüfungsfragen!</description>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <enclosure url="https://drive.google.com/file/d/1IQG8QRD3-1_bt55EiCOPNwEno-xU4vHO/view?usp=drive_link" length="12345678" type="audio/mpeg"/>
+      <guid>https://drive.google.com/file/d/1IQG8QRD3-1_bt55EiCOPNwEno-xU4vHO/view?usp=drive_link</guid>
+    </item>
+    
+  </channel>
+</rss>
